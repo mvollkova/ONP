@@ -1,0 +1,5 @@
+﻿  project.cpp
+C:\Users\ПК\source\repos\project\project.cpp(34,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ПК\source\repos\project\project.cpp(63,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ПК\source\repos\project\project.cpp(86,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  project.vcxproj -> C:\Users\ПК\source\repos\project\x64\Debug\project.exe
